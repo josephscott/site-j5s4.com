@@ -1,5 +1,6 @@
 baseURL = "https://j5s4.com/"
 languageCode = "en-us"
 title = "j5s4.com"
+disableHugoGeneratorInject = true
 
 theme = "contrast-hugo"
